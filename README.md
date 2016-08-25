@@ -1,14 +1,7 @@
 ##Ejercicio 1:
+
 ####Título:Suma
-
 ####Contexto: suma de dos números y resultado
-
-`Input:`
-num1 = 4
-num2 = 5
-
-`Output:`
-9 
 
 ###Pseudocódigo:
 1. inicio 
